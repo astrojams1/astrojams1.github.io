@@ -15,7 +15,8 @@ p.large {
 }
 
 p {
-  font-size: 20px;
-  line-height: 1.6;
+  font-size: 18px;
+  letter-spacing: 0.2;
+  line-height: 1.4;
   opacity: 0.7;
 }
