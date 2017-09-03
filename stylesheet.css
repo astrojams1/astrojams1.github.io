@@ -15,6 +15,11 @@ h1 {
   font-size: 28px;
 }
 
+h2 {
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
 p {
   font-size: 18px;
   letter-spacing: 0.2;
