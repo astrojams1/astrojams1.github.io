@@ -1,6 +1,5 @@
 a {
   font-weight: bold;
-  opacity: 1;
 }
 
 body {
@@ -25,16 +24,13 @@ li {
 }
 
 p {
+  color: gray;
   font-size: 18px;
   letter-spacing: 0.2;
   line-height: 1.4;
-  opacity: 0.6;
 }
-
-p a {opacity: 1;}
 
 p.large {
   font-size: 24px;
   line-height: 1.2;
-  opacity: 1;
 }
