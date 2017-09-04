@@ -11,6 +11,10 @@ body {
   max-width: 600px;
 }
 
+div.header {
+  height: 330px;
+}
+
 h1 {
   font-size: 28px;
   font-style: italic;
