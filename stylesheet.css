@@ -12,8 +12,16 @@ a.app {
   height: 40px;
   margin: 29px 40px 29px 0;
   padding: 8px;
+  position: relative;
   text-decoration: none;
   width: 40px;
+}
+
+a.app span.app-name {
+  display: block;
+  position: absolute;
+  top: 100px;
+  width: 80px;
 }
 
 a.app:active {
