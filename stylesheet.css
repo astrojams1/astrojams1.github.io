@@ -3,12 +3,13 @@ a {
 }
 
 div.app {
-  color: white;
-  float: left;
-  width: 40px;
-  height: 40px;
-  border-radius: 8px;
   background-color: black;
+  border-radius: 8px;
+  color: white;
+  display: inline-block;
+  height: 40px;
+  margin: 40 20px;
+  width: 40px;
 }
 
 body {
@@ -22,7 +23,6 @@ h1 {
   font-family: sans-serif;
   font-size: 18px;
   letter-spacing: 0.2px;
-  margin: 40 20px;
   max-width: 600px;
 }
 
