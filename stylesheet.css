@@ -2,7 +2,7 @@ a {
   color: black;
 }
 
-div.app {
+a.app {
   background-color: black;
   border-radius: 12px;
   color: white;
