@@ -16,6 +16,10 @@ a.app {
   width: 40px;
 }
 
+a.app:active {
+  margin-top: 33px;
+}
+
 body {
   color: black;
   padding: 10px;
