@@ -34,7 +34,7 @@ body {
 div.divider {
   background-color: black;
   height: 1px;
-  margin: 200px auto;
+  margin-bottom: 200px;
   opacity: 0.5;
 }
 
