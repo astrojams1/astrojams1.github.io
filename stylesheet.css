@@ -29,6 +29,13 @@ body {
   max-width: 1200px;
 }
 
+div.divider {
+  background-color: black;
+  height: 1px;
+  margin: 100px auto;
+  width: 80%
+}
+
 h1 {
   font-family: sans-serif;
   font-size: 18px;
