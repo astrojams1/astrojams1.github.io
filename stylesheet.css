@@ -43,6 +43,10 @@ h1 {
   max-width: 600px;
 }
 
+li {
+  line-height: 18px;
+}
+
 p {
   font-size: 21px;
   line-height: 1.2;
