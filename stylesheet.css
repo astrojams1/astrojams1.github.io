@@ -47,16 +47,13 @@ h1 {
 }
 
 li {
+  font-style: italic;
   margin-bottom: 8px;
 }
 
 li span.li-parent {
   display: inline-block;
   margin-bottom: 8px;
-}
-
-li span.property {
-  font-style: italic;
 }
 
 p {
