@@ -43,11 +43,12 @@ h1 {
   font-size: 18px;
   letter-spacing: 0.2px;
   max-width: 600px;
+  margin-top: 40px;
 }
 
 li {
   font-size: 21px;
-  line-height: 1.66;
+  margin-bottom: 8px;
 }
 
 li span.property {
