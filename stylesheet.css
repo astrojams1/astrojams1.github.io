@@ -53,6 +53,7 @@ li {
 
 li span.li-parent {
   display: inline-block;
+  font-weight: bold;
   margin-bottom: 8px;
 }
 
