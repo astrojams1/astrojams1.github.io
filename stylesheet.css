@@ -47,11 +47,11 @@ h1 {
 
 li {
   font-size: 21px;
-  line-height: 1.2;
+  line-height: 1.86;
 }
 
 li span.property {
-  font-weight: italic;
+  font-style: italic;
 }
 
 p {
@@ -71,4 +71,8 @@ p.small {
   line-height: 25.2px;
   letter-spacing: 2px;
   max-width: 100%;
+}
+
+ul {
+  margin-bottom: 20px;
 }
