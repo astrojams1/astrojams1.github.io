@@ -47,7 +47,10 @@ h1 {
 }
 
 li {
-  font-size: 21px;
+  margin-bottom: 8px;
+}
+
+li span.li-parent {
   margin-bottom: 8px;
 }
 
