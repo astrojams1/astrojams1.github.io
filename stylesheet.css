@@ -51,11 +51,7 @@ li {
 }
 
 li span.property {
-  font-weight: bold;
-}
-
-li span.property-value {
-  font-style: italic;
+  font-weight: italic;
 }
 
 p {
