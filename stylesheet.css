@@ -47,6 +47,14 @@ li {
   line-height: 18px;
 }
 
+li span.property {
+  font-weight: bold;
+}
+
+li span.property-value {
+  font-style: italic;
+}
+
 p {
   font-size: 21px;
   line-height: 1.2;
