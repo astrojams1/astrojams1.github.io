@@ -36,6 +36,10 @@ h1 {
   max-width: 600px;
 }
 
+h2 {
+  font-famiy: sans-serif;
+}
+
 p {
   font-size: 21px;
   line-height: 1.2;
