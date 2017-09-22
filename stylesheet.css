@@ -47,7 +47,7 @@ h1 {
 
 li {
   font-size: 21px;
-  line-height: 1.86;
+  line-height: 1.66;
 }
 
 li span.property {
@@ -74,5 +74,5 @@ p.small {
 }
 
 ul {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
