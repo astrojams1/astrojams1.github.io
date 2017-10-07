@@ -62,10 +62,6 @@ li span.li-parent {
   margin-bottom: 8px;
 }
 
-p {
-  max-width: 600px;
-}
-
 p.large {
   font-size: 28px;
   line-height: 1.3;
