@@ -1,5 +1,6 @@
 a {
-  color: black;
+  color: red;
+  text-decoration: underline;
 }
 
 a.app {
