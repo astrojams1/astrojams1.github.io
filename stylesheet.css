@@ -3,6 +3,30 @@ a {
   text-decoration: underline;
 }
 
+body {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+  padding: 10px;
+  padding: 11px 0 0 20px;
+  margin: 200px auto 0 auto;
+}
+
+h1 {
+  font-family: 'Futura';
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+p {
+  margin-right: 10px;
+}
+
 a.app {
   background-color: black;
   border-radius: 14px;
@@ -21,30 +45,10 @@ a.app:active {
   margin-top: 33px;
 }
 
-body {
-  color: black;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
-  line-height: 1.4;
-  padding: 10px;
-  padding: 11px 0 0 20px;
-  margin: 200px auto 0 auto;
-}
-
 div.divider {
   background-color: black;
   height: 1px;
   margin: 100px 10px 200px 0;
-}
-
-h1 {
-  font-family: 'Futura';
-  font-size: 16px;
-  margin-top: 40px;
-}
-
-li {
-  margin-bottom: 6px;
 }
 
 li span.property-value {
@@ -56,10 +60,6 @@ li span.li-parent {
   display: inline-block;
   font-weight: bold;
   margin-bottom: 8px;
-}
-
-p {
-  margin-right: 10px;
 }
 
 p.large {
