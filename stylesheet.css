@@ -47,6 +47,8 @@ a.app:active {
 
 div.divider {
   background-color: black;
+  border-bottom: 1px;
+  border-style: double;
   height: 1px;
   margin: 100px 10px 200px 0;
 }
