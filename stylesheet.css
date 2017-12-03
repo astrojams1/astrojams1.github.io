@@ -10,7 +10,8 @@ body {
 
 a {
   color: #D0021B;
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 1px solid #D0021B;
 }
 
 h1 {
