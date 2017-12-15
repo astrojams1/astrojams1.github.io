@@ -76,3 +76,7 @@ p.small {
   font-weight: 100;
   line-height: 1.5;
 }
+
+#google_image_div {
+  text-align: left;
+}
